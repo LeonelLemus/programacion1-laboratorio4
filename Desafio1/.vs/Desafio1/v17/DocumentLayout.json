@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGYON\\Documents\\archivos uni\\curso programacion I\\Laboratorio 4\\Desafio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763EB7DB-72FB-47B0-B21D-3D4097D34600}|Desafio1\\Desafio1.csproj|c:\\users\\legyon\\documents\\archivos uni\\curso programacion i\\laboratorio 4\\desafio1\\desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EB7DB-72FB-47B0-B21D-3D4097D34600}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGYON\\Documents\\archivos uni\\curso programacion I\\Laboratorio 4\\Desafio1\\Desafio1\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio1\\Program.cs",
+              "ToolTip": "C:\\Users\\LEGYON\\Documents\\archivos uni\\curso programacion I\\Laboratorio 4\\Desafio1\\Desafio1\\Program.cs",
+              "RelativeToolTip": "Desafio1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:51:02.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
